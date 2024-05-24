@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "split-html"
+version = "0.1.0"
+description = "Script to split html into messages"
+authors = ["Almaz"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+click = "^8.1.7"
+beautifulsoup4 = "^4.12.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

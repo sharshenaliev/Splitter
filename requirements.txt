@@ -1,0 +1,2 @@
+click==8.1.7
+beautifulsoup4==4.12.3
